@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalindar-dhawale&label=Profile%20views&color=0e75b6&style=flat" alt="jalindar-dhawale" /> </p>
 
-- 🔭 I’m currently working on **Agentic AI**
+- 🔭 I’m currently working on **Agentic AI,Generative AI,FASTAPI,Langflow**
 
-- 🌱 I’m currently learning **GenAI,Langflow**
+- 🌱 I’m currently learning **AGI**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence**
 
